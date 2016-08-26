@@ -54,8 +54,7 @@
 						<main>
 							<div class="container">
 										<div class="jumbotron">
-											<p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
-											<img src="images/computer-shot.jpg" class="img-fluid" alt="computer">
+											<img src="images/computer.jpg" class="img-fluid" alt="computer">
 
 								</div>
 								</div>
@@ -65,4 +64,4 @@
 </main>
 
 
-	</html>
+</html>
