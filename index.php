@@ -52,14 +52,15 @@
 								</div>
 						</header>
 						<main>
-							<div class="container">
-										<div class="jumbotron">
+								<!--Beginning row-->
+								<div class= "container">
+									<div class="row">
+										<div class="col-md-12">
+											<div class="jumbotron">
 											<img src="images/computer.jpg" class="img-fluid" alt="computer">
-
+										</div>
 								</div>
-								</div>
-
-
+							</div>
 
 </main>
 
