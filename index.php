@@ -77,8 +77,15 @@
 										</div>
 								</div>
 							</div>
-</body>
-</main>
+						</main>
+			<footer>
+				<div class="container" id=footer">
+				<i class="fa fa-facebook-square" aria-hidden="true"></i>
+					</div>
+				</div>
+	</body>
+
+
 
 
 </html>
