@@ -33,6 +33,12 @@
 				<div class="container">
 					<!--Bootstrap Navigation Bar-->
 					<nav class="navbar navbar-inverse">
+						<nav class="navbar navbar-inverse">
+							<div class="container">
+								<ul class="nav navbar-nav navbar-left">
+									<li><a href="#"></a></li>
+									<li><a href="#">Diane Peshlakai</a></li></div>
+						</nav>
 						<!-- logo and mobile toggle button get grouped together for better mobile display -->
 						<div class="navbar-header">
 							<!-- this is the mobile menu button -->
@@ -40,15 +46,17 @@
 								<span class="sr-only">main menu</span>
 								<span class="glyphicon glyphicon-menu-hamburger"></span>
 							</button>
-							<a class="navbar-brand" href="#">Diane Peshlakai</a>
+							<a class="navbar-brand" href="#">Home</a>
+							<ul class="nav navbar-nav navbar-right">
+							<li><a href="#"></a></li>
+							<li><a href="#">About</a></li>
+							<li><a href="#">Portfolio</a></li>
+								<li><a href="#">Contact Me</a></li>
 						</div>
 						<!-- here are your main nav links, grouped for toggling -->
 						<div class="collapse navbar-collapse" id="main-menu">
 							<a class="navbar-icon">
-							<ul class="nav navbar-nav navbar-right">
-								<li><a href="#"></a></li>
-								<li><a href="#">About</a></li>
-								<li><a href="#">Contact</a></li>
+
 								</div>
 						</header>
 						<main>
