@@ -65,10 +65,14 @@
 									<div class="row">
 										<div class="col-md-12">
 											<div class="jumbotron">
-											<img src="images/computer.jpg" class="img-fluid" alt="computer">
 												<div class="row">
-													<div class="col-xs-6">.col-xs-6</div>
-													<div class="col-xs-6">.col-xs-6</div>
+													<div class="col-xs-6"><h1>Welcome</h1>
+														<p>My name is Diane Peshlakai.</p>
+														<p>Full Stack Developer creating websites for local businesses</p></div>
+
+													<div class="col-xs-6"></div>
+													<img src="images/computer.jpg" class="img-fluid" alt="computer">
+												</div>
 												</div>
 										</div>
 								</div>
