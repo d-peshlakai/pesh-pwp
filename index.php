@@ -25,7 +25,7 @@
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 		</head>
-
+<body
 	<body class="sfooter">
 		<div class="sfooter-content">
 			<!--Header and Navigation bar-->
@@ -66,10 +66,14 @@
 										<div class="col-md-12">
 											<div class="jumbotron">
 											<img src="images/computer.jpg" class="img-fluid" alt="computer">
+												<div class="row">
+													<div class="col-xs-6">.col-xs-6</div>
+													<div class="col-xs-6">.col-xs-6</div>
+												</div>
 										</div>
 								</div>
 							</div>
-
+</body>
 </main>
 
 
