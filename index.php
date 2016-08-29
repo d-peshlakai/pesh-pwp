@@ -10,8 +10,10 @@
 		<!-- Optional theme -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 		<link rel="stylesheet" href="css/style.css" type="text/css"/>
-
-
+		<!-------Bootstrap Core CSS ---->
+		<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		<!----Custom Fonts-------->
+		<link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
@@ -25,7 +27,7 @@
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 		</head>
-<body
+
 	<body class="sfooter">
 		<div class="sfooter-content">
 			<!--Header and Navigation bar-->
@@ -79,10 +81,24 @@
 							</div>
 						</main>
 			<footer>
-				<div class="container" id=footer">
-				<i class="fa fa-facebook-square" aria-hidden="true"></i>
+				<div class="social">
+					<div class="row">
+						<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+							<ul class="list-inline text-center">
+								<li>
+									<a href="#">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                </span>
+									</a>
+								</li>
+								</ul>
+							</div>
+						</div>
 					</div>
-				</div>
+
+				</footer>
 	</body>
 
 
