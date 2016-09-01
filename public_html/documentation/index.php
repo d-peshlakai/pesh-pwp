@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<meta http-equiv="X-UA-COMPATIBLE" content="IE-edge">
-		<meta name="viewport" content="width-device-width, initial-scale=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 		<!-- Optional theme -->
@@ -25,8 +25,10 @@
 
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-		</head>
-	<title>DianePeshlakai.com</title>
+		<!------Title of Website-------->
+		<title>DianePeshlakai.com</title>
+
+	</head>
 
 	<body class="sfooter">
 		<div class="sfooter-content">
@@ -41,7 +43,7 @@
 									<li><a href="#"></a></li>
 									<li><a href="#">Diane Peshlakai</a></li></div>
 						</nav>
-						<!-- logo and mobile toggle button get grouped together for better mobile display -->
+							<!-- logo and mobile toggle button get grouped together for better mobile display -->
 						<div class="navbar-header">
 							<!-- this is the mobile menu button -->
 							<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#main-menu">
@@ -58,7 +60,6 @@
 						<!-- here are your main nav links, grouped for toggling -->
 						<div class="collapse navbar-collapse" id="main-menu">
 							<a class="navbar-icon">
-
 								</div>
 						</header>
 						<main>
@@ -71,15 +72,27 @@
 													<div class="col-xs-6"><h1>Welcome</h1>
 														<p>My name is Diane Peshlakai.</p>
 														<p>Full Stack Developer creating websites for local businesses</p></div>
-
 													<div class="col-xs-6"></div>
 													<img src="images/computer.jpg" class="img-fluid" alt="computer">
 												</div>
-												</div>
+											</div>
 										</div>
+									</div>
 								</div>
 							</div>
-						</main>
+													<section class="about-block">
+														<div class="center">
+															<header class="header-block">
+																<h1>About Me</h1>
+																<p>My name is Diane Peshlakai junior web developer creating responsive mobile friendly web sites.</p>
+															</header>
+															</div>
+														</section>
+							<div class="block-icons">
+
+
+		</div>
+											<!-----Footer Content----------->
 			<footer>
 				<div class="social">
 					<div class="row">
