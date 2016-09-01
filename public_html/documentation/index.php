@@ -80,18 +80,17 @@
 									</div>
 								</div>
 							</div>
-													<section class="about-block">
-														<div class="center">
-															<header class="header-block">
-																<h1>About Me</h1>
-																<p>My name is Diane Peshlakai junior web developer creating responsive mobile friendly web sites.</p>
-															</header>
-															</div>
-														</section>
+								<section class="about-block">
+									<div class="center">
+										<header class="header-block">
+											<h1>About Me</h1>
+											<p>My name is Diane Peshlakai junior web developer creating responsive mobile friendly web sites.</p>
+										</header>
+									</div>
+								</section>
 							<div class="block-icons">
-
-
-		</div>
+								<img src="..." alt="..." class="img-circle">
+							</div>
 											<!-----Footer Content----------->
 			<footer>
 				<div class="social">
