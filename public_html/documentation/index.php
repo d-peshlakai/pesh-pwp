@@ -80,17 +80,22 @@
 									</div>
 								</div>
 							</div>
-								<section class="about-block">
+								<section class="about-block" id="about">
 									<div class="center">
-										<header class="header-block">
-											<h1>About Me</h1>
+										<div class="row">
+										<header class="col-lg-12 text-center">
+											<h2>About Me</h2>
 											<p>My name is Diane Peshlakai junior web developer creating responsive mobile friendly web sites.</p>
 										</header>
 									</div>
+										<div class="row">
+											<div class="col-lg-4 col-lg-offset-2>
+
 								</section>
 							<div class="block-icons">
 								<img src="..." alt="..." class="img-circle">
 							</div>
+									</div>
 											<!-----Footer Content----------->
 			<footer>
 				<div class="social">
