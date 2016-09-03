@@ -83,19 +83,21 @@
 								<section class="about-block" id="about">
 									<div class="center">
 										<div class="row">
-										<header class="col-lg-12 text-center">
+										<div class="col-lg-12 text-center">
 											<h2>About Me</h2>
-											<p>My name is Diane Peshlakai junior web developer creating responsive mobile friendly web sites.</p>
-										</header>
+										</div>
+									</div>
 									</div>
 										<div class="row">
-											<div class="col-lg-4 col-lg-offset-2>
-
-								</section>
+											<div class="col-lg-4 col-lg-offset-2">
+												<p>My name is Diane Peshlakai junior web developer creating responsive mobile friendly web sites. I enjoy creating websites for local businesses and for entrepreneurs withing the technology community. I incoporate my own photographs into my websites.</p>
+										</div>
+										</div>
 							<div class="block-icons">
 								<img src="..." alt="..." class="img-circle">
-							</div>
+										</div>
 									</div>
+									</section>
 											<!-----Footer Content----------->
 			<footer>
 				<div class="social">
