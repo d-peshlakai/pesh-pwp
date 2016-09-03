@@ -50,8 +50,10 @@
 								<span class="sr-only">main menu</span>
 								<span class="glyphicon glyphicon-menu-hamburger"></span>
 							</button>
-							<a class="navbar-brand" href="#">Home</a>
-							<ul class="nav navbar-nav navbar-right">
+							<a class="navbar-brand" href="#">
+								<i class="fa fa-home" aria-hidden="true"></i></a>
+
+								<ul class="nav navbar-nav navbar-right">
 							<li><a href="#"></a></li>
 							<li><a href="#">About</a></li>
 							<li><a href="#">Portfolio</a></li>
