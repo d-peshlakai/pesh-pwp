@@ -69,7 +69,8 @@
 										<div class="col-md-12">
 											<div class="jumbotron">
 												<div class="row">
-													<div class="col-xs-6"><h1>Welcome</h1>
+													<div class="col-xs-6">
+														<h1>Welcome</h1>
 														<p>My name is Diane Peshlakai.</p>
 														<p>Full Stack Developer creating websites for local businesses</p></div>
 													<div class="col-xs-6"></div>
@@ -91,12 +92,11 @@
 										<div class="row">
 											<div class="col-lg-4 col-lg-offset-2">
 												<p>My name is Diane Peshlakai junior web developer creating responsive mobile friendly web sites. I enjoy creating websites for local businesses and for entrepreneurs withing the technology community. I incoporate my own photographs into my websites.</p>
-										</div>
-										</div>
-							<div class="block-icons">
-								<img src="..." alt="..." class="img-circle">
-										</div>
-									</div>
+									`		</div>
+													<div class="col-lg-4">
+													<img src="images/feather.png" class="img-rounded pull-xs-right" alt="feather" height="200" width="200">
+													</div>
+											</div>
 									</section>
 											<!-----Footer Content----------->
 			<footer>
