@@ -70,7 +70,6 @@
 
 								<ul class="nav navbar-nav navbar-right">
 							<li><a href="#"></a></li>
-							<li><a href="#">About</a></li>
 							<li><a href="#">Portfolio</a></li>
 								<li><a href="#">Contact Me</a></li>
 						</div>
