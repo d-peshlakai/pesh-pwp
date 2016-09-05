@@ -52,7 +52,7 @@
 				<div class="container">
 					<!--Bootstrap Navigation Bar-->
 					<nav class="navbar navbar-inverse">
-						<nav class="navbar navbar-inverse">
+						<nav class="navbar navbar-dark bg-inverse" style="background-color: #D03DFF">
 							<div class="container">
 								<ul class="nav navbar-nav navbar-left">
 									<li><a href="#"></a></li>
