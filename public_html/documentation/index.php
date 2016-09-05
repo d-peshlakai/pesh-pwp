@@ -87,8 +87,9 @@
 												<div class="row">
 													<div class="col-xs-6">
 														<h1>Welcome</h1>
+														<h2>Do you need a great, responsive website?</h2>
 														<p>My name is Diane Peshlakai.</p>
-														<p>Full Stack Developer creating websites for local businesses</p></div>
+														<p>Full Stack Developer creating custom websites for local businesses in Albuquerque, New Mexico and surrounding areas.</p></div>
 													<div class="col-xs-6"></div>
 													<img src="images/computer.jpg" class="img-fluid" alt="computer">
 												</div>
@@ -107,7 +108,9 @@
 									</div>
 										<div class="row">
 											<div class="col-lg-4 col-lg-offset-2">
-												<p>My name is Diane Peshlakai junior web developer creating responsive mobile friendly web sites. I enjoy creating websites for local businesses and for entrepreneurs withing the technology community. I incoporate my own photographs into my websites.</p>
+												<p>I'm graduating from the Deep Dive Bootcamp and studied front and back-end web development. The bootcamp prepared me to create creative mobile-friendly and secured website.
+												I use HTML, CSS, Bootstrap, AngularJS, and mySQL to create custom work. I work well with a team and I love learning!Have a question? Please feel free to fill out the contact form
+												and send me a message.</p>
 									`		</div>
 													<div class="col-lg-4">
 													<img src="images/feather.png" class="img-rounded pull-xs-right" alt="feather" height="200" width="200">
