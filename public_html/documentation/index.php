@@ -1,6 +1,4 @@
 
-
-
 	<body class="sfooter">
 		<div class="sfooter-content">
 			<!--Header and Navigation bar-->
