@@ -24,35 +24,6 @@
 		<script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
 
-		<!--Angular JS Libraries-->
-		<?php $ANGULAR_VERSION = "1.5.8"; ?>
-		<script type="text/javascript"
-				  src="//ajax.googleapis.com/ajax/libs/angularjs/<?php echo $ANGULAR_VERSION; ?>/angular.min.js"></script>
-		<script type="text/javascript"
-				  src="//ajax.googleapis.com/ajax/libs/angularjs/<?php echo $ANGULAR_VERSION; ?>/angular-messages.min.js"></script>
-		<script type="text/javascript"
-				  src="//ajax.googleapis.com/ajax/libs/angularjs/<?php echo $ANGULAR_VERSION; ?>/angular-route.js"></script>
-		<script type="text/javascript"
-				  src="//ajax.googleapis.com/ajax/libs/angularjs/<?php echo $ANGULAR_VERSION; ?>/angular-animate.js"></script>
-		<script type="text/javascript"
-				  src="//cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/1.3.3/ui-bootstrap-tpls.min.js"></script>
-
-
-		<!--angular base app goes after Angular Libraries -->
-		<script src="angular/pesh-pwp.js"></script>
-		<!-- configuration files-->
-		<script src="angular/route-config.js"></script>
-		<!--directives-->
-		<script src="angular/directives/bootstrap-breakpoint.js"></script>
-		<!--services, you won't always have them, but make sure they're in order with the controllers-->
-
-		<!--controllers-->
-		<script src="angular/controllers/home-controller.js"></script>
-		<script src="angular/controllers/nav-controller.js"></script>
-		<script src="angular/controllers/about-controller.js"></script>
-		<script src="angular/controllers/contact-controller.js"></script>
-		<script src="angular/controllers/contact-form-controller.js"></script>
-
 
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
