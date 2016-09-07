@@ -60,21 +60,15 @@
 							<!-- this is the mobile menu button -->
 							<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#main-menu">
 								<span class="sr-only">main menu</span>
-								<span class="glyphicon glyphicon-menu-hamburger"></span>
+								<span class="glyphicon glyphicon-menu-hamburger">
+								</span>
 							</button>
 							<a class="navbar-brand" href="../index.php">
 								<i class="fa fa-home" aria-hidden="true"></i></a>
 
-							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-								<ul class="nav navbar-nav">
-									<li class="active"><a href="#">Diane Peshlakai
-											<span class="sr-only">(current)</span></a>
-									</li>
-								</ul>
 							<ul class="nav navbar-nav navbar-right">
-								<li><a href="../index.php"></a></li>
-								<li><a href="../portfolio/index.php">Portfolio</a></li>
-								<li><a href="contact.php">Contact Me</a></li>
+								<li><a href="..portfolio/index.php">Portfolio</a></li>
+								<li><a href="../contact.php">Contact Me</a></li>
 
 								<a class="navbar-brand"="Diane Peshlakai"</a>
 							</ul>
@@ -83,6 +77,11 @@
 						<div class="collapse navbar-collapse" id="main-menu">
 							<a class="navbar-icon">
 						</div>
+
+
+
+
+
 			</header>
 
 								<!--Begin Contact Form-->
