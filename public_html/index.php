@@ -58,8 +58,9 @@
 						<div class="navbar-header">
 							<!-- this is the mobile menu button -->
 							<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#main-menu">
-								<span class="sr-only">main menu</span>
-								<span class="glyphicon glyphicon-menu-hamburger"></span>
+							<span class="sr-only">main menu</span>
+								<span class="glyphicon glyphicon-menu-hamburger">
+								</span>
 							</button>
 							<a class="navbar-brand" href="#">
 								<i class="fa fa-home" aria-hidden="true"></i></a>
@@ -90,7 +91,7 @@
 														<p>My name is Diane Peshlakai.</p>
 														<p>Full Stack Developer creating custom websites for local businesses in Albuquerque, New Mexico and surrounding areas.</p></div>
 													<div class="col-xs-6"></div>
-													<img src="images/laptop-pic.jpg" class="img-fluid" alt="computer">
+													<img src="images/laptop-pic.jpg" class="img-fluid" alt="laptop">
 												</div>
 											</div>
 										</div>
