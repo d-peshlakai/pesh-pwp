@@ -1,4 +1,12 @@
+.sfooter {
+@media (min-width: 768px)
+(max-width: 991px);
+}
 
+
+.nav.navbar.navbar.inverse {
+	width: 100%;
+}
 .img-fluid {
 	max-width: 50%;
 	height: auto;

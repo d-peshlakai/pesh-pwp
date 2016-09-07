@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="UTF-8">
-		<meta http-equiv="X-UA-COMPATIBLE" content="IE-edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta charset="UTF-8"/>
+		<meta http-equiv="X-UA-COMPATIBLE" content="IE-edge"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
 		<!-- set base for relative links - to enable pretty URLs -->
 		<base href="<?php echo dirname($_SERVER["PHP_SELF"]) . "/";?>">
@@ -54,12 +54,6 @@
 				<div class="container">
 					<!--Bootstrap Navigation Bar-->
 					<nav class="navbar navbar-inverse">
-						<nav class="navbar navbar-dark bg-inverse" style="background-color: #D03DFF">
-							<div class="container">
-								<ul class="nav navbar-nav navbar-left">
-									<li><a href="#"></a></li>
-									<li><a href="#">Diane Peshlakai</a></li></div>
-						</nav>
 							<!-- logo and mobile toggle button get grouped together for better mobile display -->
 						<div class="navbar-header">
 							<!-- this is the mobile menu button -->
@@ -74,6 +68,9 @@
 							<li><a href="#"></a></li>
 							<li><a href="#">Portfolio</a></li>
 								<li><a href="#">Contact Me</a></li>
+
+							<a class="navbar-brand"="Diane Peshlakai"</a>
+						</ul>
 						</div>
 						<!-- here are your main nav links, grouped for toggling -->
 						<div class="collapse navbar-collapse" id="main-menu">
@@ -93,7 +90,7 @@
 														<p>My name is Diane Peshlakai.</p>
 														<p>Full Stack Developer creating custom websites for local businesses in Albuquerque, New Mexico and surrounding areas.</p></div>
 													<div class="col-xs-6"></div>
-													<img src="images/computer.jpg" class="img-fluid" alt="computer">
+													<img src="images/laptop-pic.jpg" class="img-fluid" alt="computer">
 												</div>
 											</div>
 										</div>
