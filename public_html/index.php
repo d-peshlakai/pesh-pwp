@@ -62,16 +62,14 @@
 								<span class="glyphicon glyphicon-menu-hamburger">
 								</span>
 							</button>
-							<a class="navbar-brand" href="#">
+							<a class="navbar-brand" href="../public_html/index.php">
 								<i class="fa fa-home" aria-hidden="true"></i></a>
 
 								<ul class="nav navbar-nav navbar-right">
 							<li><a href="#"></a></li>
-							<li><a href="#">Portfolio</a></li>
-								<li><a href="#">Contact Me</a></li>
-
-							<a class="navbar-brand"="Diane Peshlakai"</a>
-						</ul>
+							<li><a href="../public_html/portfolio/index.php">Portfolio</a></li>
+								<li><a href="../public_html/views/contact.php">Contact Me</a></li>
+								</ul>
 						</div>
 						<!-- here are your main nav links, grouped for toggling -->
 						<div class="collapse navbar-collapse" id="main-menu">

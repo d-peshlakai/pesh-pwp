@@ -46,6 +46,19 @@
 
 		<!------Title of Website-------->
 		<title>DianePeshlakai.com</title>
+	<body class="sfooter">
+
+		<div class="sfooter-content">
+			<!-- your page content here-->
+		</div>
+
+		<footer>
+			<!-- footer here-->
+		</footer>
+
+	</body>
+
+
 
 	</head>
 	<body class="sfooter">
@@ -77,15 +90,12 @@
 						<div class="collapse navbar-collapse" id="main-menu">
 							<a class="navbar-icon">
 						</div>
-
-
-
-
-
+						</div>
 			</header>
 
 								<!--Begin Contact Form-->
 			<main>
+				<div class="container">
 			<form id="contact-form" action="php/mailer.php" method="post">
 				<div class="form-group">
 					<label for="name">Name <span class="text-danger">*</span></label>
@@ -124,7 +134,7 @@
 		</div>
 	</div>
 
-	<!-- reCAPTCHA -->
+									<!-- reCAPTCHA -->
 	<div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
 
 	<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
@@ -137,4 +147,8 @@
 		<div id="output-area"></div>
 	</div>
 </div>
+					</div>
 				</main>
+			</div>
+		</body>
+</html>
