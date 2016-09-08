@@ -51,7 +51,7 @@
 		<div class="sfooter-content">
 			<!--Header and Navigation bar-->
 			<header>
-				<div class="container">
+				<div class="box-container">
 					<!--Bootstrap Navigation Bar-->
 					<nav class="navbar navbar-inverse">
 							<!-- logo and mobile toggle button get grouped together for better mobile display -->
@@ -61,22 +61,22 @@
 							<span class="sr-only">main menu</span>
 								<span class="glyphicon glyphicon-menu-hamburger">
 								</span>
-							</button>
+								</button>
 							<a class="navbar-brand" href="../public_html/index.php">
 								<i class="fa fa-home" aria-hidden="true"></i></a>
-
-								<ul class="nav navbar-nav navbar-right">
-							<li><a href="#"></a></li>
-							<li><a href="../public_html/portfolio/index.php">Portfolio</a></li>
-								<li><a href="../public_html/views/contact.php">Contact Me</a></li>
-								</ul>
+									<ul class="nav navbar-nav navbar-right">
+									<li><a href="#"></a></li>
+										<li><a href="../public_html/portfolio/index.php">Portfolio</a></li>
+											<li><a href="../public_html/views/contact.php">Contact Me</a></li>
+									</ul>
 						</div>
 						<!-- here are your main nav links, grouped for toggling -->
 						<div class="collapse navbar-collapse" id="main-menu">
 							<a class="navbar-icon">
-								</div>
-						</header>
+								<p class="navbar-text navbar-right"></p>
+						</div>
 						<main>
+							</header>
 								<!--Beginning row-->
 								<div class="container">
 									<div class="row">
@@ -115,6 +115,7 @@
 													</div>
 											</div>
 									</section>
+							</main>
 
 	</body>
 

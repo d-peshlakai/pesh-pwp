@@ -6,13 +6,15 @@
 
 .nav.navbar.navbar.inverse {
 	width: 100%;
+	left: 0;
 }
+
+
 .img-fluid {
 	max-width: 50%;
 	height: auto;
-
-
 }
+
 
 body {
 	background-image: url(../images/upfeathers.png);
@@ -30,12 +32,6 @@ body {
 div.row {
 	color: black;
 }
-
-
-
-
-
-
 
 
 /***
