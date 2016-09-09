@@ -100,7 +100,7 @@
 
 						<div class="col-md-4">
 							<h3>Blog Sample Website</h3>
-							<p>I created a travel blog website about a restaurant/bar owner who admired Tim Burton's creative unique style.
+							<p>I created a travel blog website that featured a restaurant/bar owner who admired Tim Burton's creative unique style and turned it into a themed Burton styled destination.
 							I enjoy Tim Burton's films, and art. So as one of the class assignments was to create a website using Boostrap framework and this was my creation.</p>
 							<h3>Project Details</h3>
 							<ul>
@@ -114,7 +114,37 @@
 			</div>
 
 
+				<!-- Footer -->
 				<footer>
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-10 col-lg-offset-1 text-center">
+								<h4><strong></strong>
+								</h4>
+								<p>Albuquerque, NM</p>
+								<ul class="list-unstyled">
+									<li><i class="fa fa-phone fa-fw"></i></li>
+									<li><i class="fa fa-envelope-o fa-fw"></i> <a href="mailto:name@example.com">dpeshlakai3@cnm.edu</a>
+									</li>
+								</ul>
+								<br>
+								<ul class="list-inline">
+									<li>
+										<a href="#"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
+									</li>
+									<li>
+										<a href="#"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
+									</li>
+									<li>
+										<a href="#"><i class="<i class="fa fa-github fa-fw fa-3x"></i></a>
+									</li>
+								</ul>
+								<hr class="small">
+								<p class="text-muted">Copyright &copy; Diane Peshlakai 2016</p>
+							</div>
+						</div>
+					</div>
+					<a id="to-top" href="#top" class="btn btn-dark btn-lg"><i class="fa fa-chevron-up fa-fw fa-1x"></i></a>
 				</footer>
 	</body>
 </html>

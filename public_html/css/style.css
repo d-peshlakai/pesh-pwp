@@ -27,7 +27,9 @@ div.row {
 	color: black;
 }
 
-
+.list-unstyled {
+	color: black;
+}
 /***
 * Flexbox Sticky Footer
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
