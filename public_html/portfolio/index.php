@@ -77,4 +77,44 @@
 						</div>
 						<main>
 			</header>
+			<div class="container">
+				<!-- Page Content -->
+				<div class="container">
 
+					<!-- Portfolio Item Heading -->
+					<div class="row">
+						<div class="col-lg-12">
+							<h1 class="page-header">Portfolio
+								<small>Websites</small>
+							</h1>
+						</div>
+					</div>
+					<!--row -->
+
+					<!-- Portfolio Item Row -->
+					<div class="row">
+
+						<div class="col-md-8">
+							<img class="img-responsive" src="../images/burton.PNG" alt="time-burton">
+						</div>
+
+						<div class="col-md-4">
+							<h3>Blog Sample Website</h3>
+							<p>I created a travel blog website about a restaurant/bar owner who admired Tim Burton's creative unique style.
+							I enjoy Tim Burton's films, and art. So as one of the class assignments was to create a website using Boostrap framework and this was my creation.</p>
+							<h3>Project Details</h3>
+							<ul>
+								<li>HTML </li>
+								<li>CSS</li>
+								<li>PHPStorm</li>
+							</ul>
+						</div>
+
+					</div>
+			</div>
+
+
+				<footer>
+				</footer>
+	</body>
+</html>
