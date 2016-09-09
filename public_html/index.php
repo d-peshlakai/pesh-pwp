@@ -115,7 +115,7 @@
 													</div>
 											</div>
 									</section>
-							</main>
+
 
 	</body>
 
