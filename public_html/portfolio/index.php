@@ -136,7 +136,7 @@
 										<a href="#"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
 									</li>
 									<li>
-										<a href="#"><i class="<i class="fa fa-github fa-fw fa-3x"></i></a>
+										<a href="#"><i class="fa fa-github fa-fw fa-3x" aria-hidden="true"></i></a>
 									</li>
 								</ul>
 								<hr class="small">
