@@ -62,12 +62,12 @@
 								<span class="glyphicon glyphicon-menu-hamburger">
 								</span>
 							</button>
-							<a class="navbar-brand" href="../public_html/index.php">
+							<a class="navbar-brand" href="../index.php">
 								<i class="fa fa-home" aria-hidden="true"></i></a>
 							<ul class="nav navbar-nav navbar-right">
 								<li><a href="#"></a></li>
-								<li><a href="../public_html/portfolio/index.php">Portfolio</a></li>
-								<li><a href="php/contact.php">Contact Me</a></li>
+								<li><a href="../portfolio/index.php">Portfolio</a></li>
+								<li><a href="../php/contact.php">Contact Me</a></li>
 							</ul>
 						</div>
 						<!-- here are your main nav links, grouped for toggling -->
