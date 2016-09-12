@@ -124,7 +124,7 @@
 					`
 				</div>
 				<div class="col-lg-4">
-					<img src="images/feather.png" class="img-rounded pull-xs-right" alt="feather" height="200" width="200">
+					<img src="images/feather-color.jpg" class="img-rounded pull-xs-right" alt="feather" height="200" width="200">
 				</div>
 			</div>
 		</section>

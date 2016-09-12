@@ -30,6 +30,16 @@ div.row {
 .list-unstyled {
 	color: black;
 }
+
+.jumbotron {
+	background-color: black;
+}
+.col-xs-6 {
+	color: white;
+}
+div.col-md-4 {
+	color: black;
+}
 /***
 * Flexbox Sticky Footer
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
