@@ -40,6 +40,9 @@ div.row {
 div.col-md-4 {
 	color: black;
 }
+.container.col-md-12 {
+	background-image: url(../images/canyon.jpg);
+}
 /***
 * Flexbox Sticky Footer
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/

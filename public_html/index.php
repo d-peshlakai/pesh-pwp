@@ -68,15 +68,14 @@
 							<button class="navbar-toggle collapsed" type="button" data-toggle="collapse"
 									  data-target="#main-menu">
 								<span class="sr-only">main menu</span>
-								<span class="glyphicon glyphicon-menu-hamburger">
-								</span>
+								<span class="glyphicon glyphicon-menu-hamburger"></span>
 							</button>
-							<a class="navbar-brand" href="../public_html/index.php">
+							<a class="navbar-brand" href="/">
 								<i class="fa fa-home" aria-hidden="true"></i></a>
 							<ul class="nav navbar-nav navbar-right">
 								<li><a href="#"></a></li>
-								<li><a href="../public_html/portfolio/index.php">Portfolio</a></li>
-								<li><a href="php/contact.php">Contact Me</a></li>
+								<li><a href="/portfolio/">Portfolio</a></li>
+								<li><a href="/contact">Contact Me</a></li>
 							</ul>
 						</div>
 						<!-- here are your main nav links, grouped for toggling -->
@@ -98,8 +97,6 @@
 									<p>My name is Diane Peshlakai.</p>
 									<p>Full Stack Developer creating custom websites for local businesses in Albuquerque, New
 										Mexico and surrounding areas.</p></div>
-								<div class="col-xs-6"></div>
-								<img src="images/laptop-pic.jpg" class="img-fluid" alt="laptop">
 							</div>
 						</div>
 					</div>
