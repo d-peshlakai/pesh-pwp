@@ -74,7 +74,7 @@
 								<i class="fa fa-home" aria-hidden="true"></i></a>
 							<ul class="nav navbar-nav navbar-right">
 								<li><a href="#"></a></li>
-								<li><a href="/portfolio/">Portfolio</a></li>
+								<li><a href="/portfolio">Portfolio</a></li>
 								<li><a href="/contact">Contact Me</a></li>
 							</ul>
 						</div>

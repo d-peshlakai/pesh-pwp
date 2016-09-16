@@ -33,6 +33,8 @@ div.row {
 
 .jumbotron {
 	background-color: black;
+	background-image: url(../images/laptop-second.jpg);
+	background-size: cover;
 }
 .col-xs-6 {
 	color: white;
@@ -40,9 +42,7 @@ div.row {
 div.col-md-4 {
 	color: black;
 }
-.container.col-md-12 {
-	background-image: url(../images/canyon.jpg);
-}
+
 /***
 * Flexbox Sticky Footer
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
