@@ -3,6 +3,9 @@
 (max-width: 991px);
 }
 
+.intro-header {
+	background-image: url(../images/dev-web.jpg);
+}
 
 .img-fluid {
 	max-width: 50%;
@@ -10,9 +13,6 @@
 }
 
 
-body {
-	background-image: url(../images/upfeathers.png);
-}
 
 .about-block {
 	text-align: center;

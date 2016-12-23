@@ -77,7 +77,7 @@
 								<a href="#about">About</a>
 							</li>
 							<li>
-								<a href="#services">Services</a>
+								<a href="#projects">Projects</a>
 							</li>
 							<li>
 								<a href="#contact">Contact</a>
@@ -90,23 +90,40 @@
 			</nav>
 
 			<!--Beginning row-->
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="jumbotron">
-							<div class="row">
-								<div class="col-xs-6">
-									<h1>Welcome</h1>
-									<h2>Do you need a great, responsive website?</h2>
-									<p>My name is Diane Peshlakai.</p>
-									<p>Full Stack Developer creating custom websites for local businesses in Albuquerque, New
-										Mexico and surrounding areas.</p></div>
+			<!-- Header -->
+			<a name="about"></a>
+			<div class="intro-header">
+				<div class="container">
+
+					<div class="row">
+						<div class="col-lg-12">
+							<div class="intro-message">
+								<h1>Web Developer</h1>
+								<h3>Diane Peshlakai</h3>
+								<hr class="intro-divider">
+								<ul class="list-inline intro-social-buttons">
+									<li>
+										<a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+									</li>
+									<li>
+										<a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+									</li>
+									<li>
+										<a href="#" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
+									</li>
+								</ul>
 							</div>
 						</div>
 					</div>
+
 				</div>
+				<!-- /.container -->
+
 			</div>
-		</div>
+			<!-- /.intro-header -->
+
+
+
 		<section class="about-block" id="about">
 			<div class="center">
 				<div class="row">
