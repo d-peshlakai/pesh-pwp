@@ -92,12 +92,10 @@
 			<!--Beginning row-->
 			<!-- Header -->
 			<a name="about">
-				<header>
+
 				<div class="intro-header">
 				<div class="about-container">
 
-				</div>
-				</header>
 				<div class="container">
 
 					<div class="row">
@@ -147,7 +145,7 @@
 					`
 				</div>
 				<div class="col-lg-4">
-					<img src="images/feather-color.jpg" class="img-rounded pull-xs-right" alt="feather" height="200" width="200">
+
 				</div>
 			</div>
 		</section>
