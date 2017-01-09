@@ -3,8 +3,9 @@
 (max-width: 991px);
 }
 
-.about {
-	background-color: black;
+.about-container {
+	background-image: url(../images/dev-web.jpg);
+	background-size: cover;
 }
 
 .img-fluid {

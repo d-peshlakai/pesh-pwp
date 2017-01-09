@@ -92,7 +92,12 @@
 			<!--Beginning row-->
 			<!-- Header -->
 			<a name="about">
-			<div class="intro-header">
+				<header>
+				<div class="intro-header">
+				<div class="about-container">
+
+				</div>
+				</header>
 				<div class="container">
 
 					<div class="row">
@@ -161,17 +166,6 @@
 							</li>
 						</ul>
 						<br>
-						<ul class="list-inline">
-							<li>
-								<a href="#"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
-							</li>
-							<li>
-								<a href="#"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
-							</li>
-							<li>
-								<a href="#"><i class="fa fa-github fa-fw fa-3x" aria-hidden="true"></i></a>
-							</li>
-						</ul>
 						<hr class="small">
 						<p class="text-muted">Copyright &copy; Diane Peshlakai 2016</p>
 					</div>
