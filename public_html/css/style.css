@@ -3,8 +3,8 @@
 (max-width: 991px);
 }
 
-.intro-header {
-	background-image: url(../images/dev-web.jpg);
+.about {
+	background-color: black;
 }
 
 .img-fluid {

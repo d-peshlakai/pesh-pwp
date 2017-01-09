@@ -91,14 +91,13 @@
 
 			<!--Beginning row-->
 			<!-- Header -->
-			<a name="about"></a>
+			<a name="about">
 			<div class="intro-header">
 				<div class="container">
 
 					<div class="row">
 						<div class="col-lg-12">
 							<div class="intro-message">
-								<h1>Web Developer</h1>
 								<h3>Diane Peshlakai</h3>
 								<hr class="intro-divider">
 								<ul class="list-inline intro-social-buttons">
@@ -121,6 +120,7 @@
 
 			</div>
 			<!-- /.intro-header -->
+			</a>
 
 
 
@@ -134,10 +134,10 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-4 col-lg-offset-2">
-					<p>I'm graduating from the Deep Dive Bootcamp and studied front and back-end web development. The
+					<p>I graduated from the Deep Dive Bootcamp where I studied front and back-end web development. The
 						bootcamp prepared me to create creative mobile-friendly and secured website.
 						I use HTML, CSS, Bootstrap, AngularJS, and mySQL to create custom work. I work well with a team and I
-						love learning!Have a question? Please feel free to fill out the contact form
+						love learning! Have a question? Please feel free to fill out the contact form
 						and send me a message.</p>
 					`
 				</div>
@@ -157,7 +157,7 @@
 						<ul class="list-unstyled">
 							<li><i class="fa fa-phone fa-fw"></i></li>
 							<li><i class="fa fa-envelope-o fa-fw"></i> <a
-									href="mailto:name@example.com">dpeshlakai3@cnm.edu</a>
+									href="mailto:name@example.com">dpeshlakai90@gmail.com</a>
 							</li>
 						</ul>
 						<br>
