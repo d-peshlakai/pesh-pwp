@@ -91,6 +91,7 @@
 
 			<!--Beginning row-->
 			<!-- Header -->
+			<header>
 			<a name="about">
 
 				<div class="intro-header">
@@ -101,29 +102,30 @@
 					<div class="row">
 						<div class="col-lg-12">
 							<div class="intro-message">
-								<h3>Diane Peshlakai</h3>
+								<span class="skills">Full Stack Web Developer</span>
 								<hr class="intro-divider">
 								<ul class="list-inline intro-social-buttons">
 									<li>
-										<a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+										<a href="https://twitter.com/dpeshlakai4828" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
 									</li>
 									<li>
-										<a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+										<a href="https://github.com/d-peshlakai" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
 									</li>
 									<li>
-										<a href="#" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
+										<a href="https://www.linkedin.com/in/diane-peshlakai-47b27b105" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
 									</li>
 								</ul>
 							</div>
 						</div>
 					</div>
-
+				</div>
 				</div>
 				<!-- /.container -->
 
 			</div>
 			<!-- /.intro-header -->
 			</a>
+				</header>
 
 
 

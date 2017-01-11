@@ -3,6 +3,9 @@
 (max-width: 991px);
 }
 
+header {
+	text-align: center;
+}
 .intro-header {
 	background-image: url(../images/dev-web.jpg);
 	background-size: cover;
