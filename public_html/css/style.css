@@ -2,6 +2,15 @@
 @media (min-width: 768px)
 (max-width: 991px);
 }
+a .navbar-brand.topnav {
+	font-family: 'Satisfy', cursive;
+
+}
+.about-block {
+	font-family: 'Just Another Hand', cursive;
+	font-size: 30px;
+}
+
 
 header {
 	text-align: center;
