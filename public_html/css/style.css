@@ -69,7 +69,6 @@ div.col-md-4 {
 /*corrects IE min-height bug*/
 html { display: flex;}
 
-
 .sfooter {
 	display: flex;
 	flex-direction: column;
