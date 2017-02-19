@@ -149,7 +149,7 @@
 						I used HTML/CSS, PHP, Javascript, Bootstrap, AngularJS, and mySQL. I went from a pharmacy technician to web developer. It allows me to be creative and enjoy what I do. I work well with a team and I
 						love learning! Have a question? Please feel free to fill out the contact form
 						and send me a message.</p>
-					`</div>
+				</div>
 				</div>
 				</section>
 				<!--Begin Contact Form-->
