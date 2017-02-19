@@ -71,8 +71,8 @@
 								<i class="fa fa-home" aria-hidden="true"></i></a>
 
 							<ul class="nav navbar-nav navbar-right">
-								<li><a href="..portfolio/index.php">Portfolio</a></li>
-								<li><a href="../contact.php">Contact Me</a></li>
+								<li><a href="../portfolio/index.php">Portfolio</a></li>
+								<li><a href="../contact/index.php">Contact Me</a></li>
 
 								<a class="navbar-brand"="Diane Peshlakai"</a>
 							</ul>
