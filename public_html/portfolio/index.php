@@ -124,7 +124,7 @@
 								<p>Albuquerque, NM</p>
 								<ul class="list-unstyled">
 									<li><i class="fa fa-phone fa-fw"></i></li>
-									<li><i class="fa fa-envelope-o fa-fw"></i> <a href="mailto:name@example.com">dpeshlakai3@cnm.edu</a>
+									<li><i class="fa fa-envelope-o fa-fw"></i> <a href="mailto:name@example.com">dpeshlakai90@gmail.com</a>
 									</li>
 								</ul>
 								<br>

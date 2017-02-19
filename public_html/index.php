@@ -81,7 +81,7 @@
 								<a href="#about">About</a>
 							</li>
 							<li>
-								<a href="#projects">Projects</a>
+								<a href="portfolio/index.php">Projects</a>
 							</li>
 							<li>
 								<a href="#contact">Contact</a>
