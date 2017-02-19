@@ -84,7 +84,7 @@
 								<a href="portfolio/index.php">Projects</a>
 							</li>
 							<li>
-								<a href="contact/index.php">Contact</a>
+								<a href="#contact">Contact</a>
 							</li>
 						</ul>
 					</div>
@@ -141,6 +141,7 @@
 					</div>
 				</div>
 			</div>
+			<div id="about">
 			<div class="row">
 				<div class="col-lg-4 col-lg-offset-2">
 					<p>I completed the Deep Dive Coding Bootcamp program where I studied front and back-end web development. The
@@ -148,12 +149,12 @@
 						I used HTML/CSS, PHP, Javascript, Bootstrap, AngularJS, and mySQL. I went from a pharmacy technician to web developer. It allows me to be creative and enjoy what I do. I work well with a team and I
 						love learning! Have a question? Please feel free to fill out the contact form
 						and send me a message.</p>
-					`
+					`</div>
 				</div>
 				</section>
 				<!--Begin Contact Form-->
 				<main>
-
+					<div id="contact">
 					<div class="container form-wrap">
 						<div class="row">
 							<div class="col-sm-6">
