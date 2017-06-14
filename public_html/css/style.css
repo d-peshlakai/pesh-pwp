@@ -39,6 +39,10 @@ header .container {
 	display: inline;
 }
 
+.main {
+	display: inline-block;
+	text-align: center;
+}
 
 div.row {
 	color: black;
